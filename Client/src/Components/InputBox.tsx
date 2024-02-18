@@ -7,7 +7,7 @@ const InputBox = () => {
     ////////////////////////////////////////////////////////////
     // Write python flask function and to send request and get response in json
     // aafter save all these data in Atom Articles so that it i sused b ArticlesPages
-    alert(search);
+
     navigate("/articles");
   };
   return (
